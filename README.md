@@ -13,7 +13,7 @@ Project consists of a simple PYTHON script that allows the user to encrypt text 
 
 <p align="center">
 Running this code will let you encrypt and then decrypt text: <br/>
-<img src="https://imgur.com/D0eVfEM" height="80%" width="80%" alt="Encrypt"/>
+<img src="https://i.imgur.com/D0eVfEM.png" height="80%" width="80%" alt="Encrypt"/>
 <br />
 
 <!--
