@@ -1,4 +1,4 @@
-<h1>JEncryption Task 001</h1>
+<h1>Encryption Task 001</h1>
 
 <h2>Description</h2>
 Project consists of a simple PYTHON script that allows the user to encrypt text using a key and then decrypt encrypted text with that key.
